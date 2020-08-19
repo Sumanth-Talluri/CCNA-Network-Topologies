@@ -114,3 +114,25 @@ Router(config-router)#no auto-summary
 ```
 
 &nbsp;
+
+## EIGRP LOAD BALANCING
+
+### Topology
+
+<img align="center" src="https://github.com/Sumanth-Talluri/CCNA-Network-Topologies/blob/master/11.%20EIGRP/screenshots/loadbalance.png" width="60%">
+
+### Commands
+
+In Router 0 :
+
+```console
+Router#show ip route
+Gateway of last resort is not set
+C 192.168.1.0/24 is directly connected, Ethernet1/0
+C 192.168.2.0/24 is directly connected, FastEthernet0/0
+D 192.168.3.0/24 [90/30720] via 192.168.2.2, 00:00:26, FastEthernet0/0
+C 192.168.4.0/24 is directly connected, FastEthernet0/1
+Router#
+```
+
+&nbsp;
