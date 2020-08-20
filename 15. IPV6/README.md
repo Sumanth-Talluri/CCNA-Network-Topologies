@@ -22,8 +22,6 @@ Router(config-if)#exit
 Router(config)#ipv6 route 2001:3::/64 2001:2::2
 ```
 
-&nbsp;
-
 In Router 1 :
 
 ```console
@@ -62,8 +60,6 @@ Router(config-if)#ipv6 rip NetworkGeek enable
 Router(config-if)#exit
 ```
 
-&nbsp;
-
 In Router 1 :
 
 ```console
@@ -93,8 +89,6 @@ Router(config-if)#int fa0/1
 Router(config-if)#ipv6 ospf 1 area 0
 Router(config-if)#
 ```
-
-&nbsp;
 
 In Router 1 :
 
@@ -127,8 +121,6 @@ Router(config-if)#int fa0/1
 Router(config-if)#ipv6 eigrp 1
 Router(config-if)#
 ```
-
-&nbsp;
 
 In Router 1 :
 
