@@ -4,7 +4,7 @@
 
 ### Topology
 
-<img align="center" src="https://github.com/Sumanth-Talluri/CCNA-Network-Topologies/blob/master/9.%20Best%20Path%20Calculation/screenshots/rip%20calculation.png" width="90%">
+<img align="center" src="https://github.com/Sumanth-Talluri/CCNA-Network-Topologies/blob/master/09.%20Best%20Path%20Calculation/screenshots/rip%20calculation.png" width="90%">
 
 &nbsp;
 
@@ -12,7 +12,7 @@
 
 ### Topology
 
-<img align="center" src="https://github.com/Sumanth-Talluri/CCNA-Network-Topologies/blob/master/9.%20Best%20Path%20Calculation/screenshots/ospf%20calculation.png" width="90%">
+<img align="center" src="https://github.com/Sumanth-Talluri/CCNA-Network-Topologies/blob/master/09.%20Best%20Path%20Calculation/screenshots/ospf%20calculation.png" width="90%">
 
 ### Commands
 
