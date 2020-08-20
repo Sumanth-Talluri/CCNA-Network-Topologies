@@ -16,7 +16,6 @@ Switch#conf t
 Switch(config)#spanning-tree vlan 10 priority 4096
 Switch(config)#
 ```
-&nbsp;
 
 In Switch 1 :
 
@@ -26,7 +25,6 @@ Switch#conf t
 Switch(config)#spanning-tree vlan 20 priority 4096
 Switch(config)#
 ```
-&nbsp;
 
 In Switch 2 :
 
