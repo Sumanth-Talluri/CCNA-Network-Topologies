@@ -2,7 +2,7 @@
 
 ### Topology
 
-<img align="center" src="https://github.com/Sumanth-Talluri/CCNA-Network-Topologies/blob/master/3.%20Static%20Routing%20to%20ISP/screenshots/topology.png" width="90%">
+<img align="center" src="https://github.com/Sumanth-Talluri/CCNA-Network-Topologies/blob/master/03.%20Static%20Routing%20to%20ISP/screenshots/topology.png" width="90%">
 
 &nbsp;
 
@@ -28,6 +28,6 @@ The ping result yields the respective web page.
 &nbsp;
 
 <p>
-<img src="https://github.com/Sumanth-Talluri/CCNA-Network-Topologies/blob/master/3.%20Static%20Routing%20to%20ISP/screenshots/FB.png" width="47%">
-<img src="https://github.com/Sumanth-Talluri/CCNA-Network-Topologies/blob/master/3.%20Static%20Routing%20to%20ISP/screenshots/google.png" width="47%">
+<img src="https://github.com/Sumanth-Talluri/CCNA-Network-Topologies/blob/master/03.%20Static%20Routing%20to%20ISP/screenshots/FB.png" width="47%">
+<img src="https://github.com/Sumanth-Talluri/CCNA-Network-Topologies/blob/master/03.%20Static%20Routing%20to%20ISP/screenshots/google.png" width="47%">
 </p>
