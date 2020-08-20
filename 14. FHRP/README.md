@@ -19,8 +19,6 @@ Router(config-if)#standby 1 ip 192.168.1.1
 Router(config-if)#
 ```
 
-&nbsp;
-
 In Router 2 :
 
 ```console
