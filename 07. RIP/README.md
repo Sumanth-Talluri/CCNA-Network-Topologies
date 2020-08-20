@@ -4,7 +4,7 @@
 
 ### Topology
 
-<img align="center" src="https://github.com/Sumanth-Talluri/CCNA-Network-Topologies/blob/master/7.%20RIP/screenshots/rip.png" width="70%">
+<img align="center" src="https://github.com/Sumanth-Talluri/CCNA-Network-Topologies/blob/master/07.%20RIP/screenshots/rip.png" width="70%">
 
 ### Commands
 
@@ -34,7 +34,7 @@ Router(config)#
 
 ### Topology
 
-<img align="center" src="https://github.com/Sumanth-Talluri/CCNA-Network-Topologies/blob/master/7.%20RIP/screenshots/rip3routers.png" width="90%">
+<img align="center" src="https://github.com/Sumanth-Talluri/CCNA-Network-Topologies/blob/master/07.%20RIP/screenshots/rip3routers.png" width="90%">
 
 ### Commands
 
@@ -75,7 +75,7 @@ Router(config)#
 
 ### Topology
 
-<img align="center" src="https://github.com/Sumanth-Talluri/CCNA-Network-Topologies/blob/master/7.%20RIP/screenshots/loadbalancing.png" width="90%">
+<img align="center" src="https://github.com/Sumanth-Talluri/CCNA-Network-Topologies/blob/master/07.%20RIP/screenshots/loadbalancing.png" width="90%">
 
 ### Commands
 
@@ -100,4 +100,4 @@ Tracing the path from 192.168.1.2 to 192.168.2.2
 
 &nbsp;
 
-<img align="center" src="https://github.com/Sumanth-Talluri/CCNA-Network-Topologies/blob/master/7.%20RIP/screenshots/tracert.png" width="50%">
+<img align="center" src="https://github.com/Sumanth-Talluri/CCNA-Network-Topologies/blob/master/07.%20RIP/screenshots/tracert.png" width="50%">
