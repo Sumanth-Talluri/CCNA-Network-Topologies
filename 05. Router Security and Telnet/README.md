@@ -4,7 +4,7 @@
 
 ### Topology
 
-<img align="center" src="https://github.com/Sumanth-Talluri/CCNA-Network-Topologies/blob/master/5.%20Router%20Security%20and%20Telnet/screenshots/routersec.PNG" width="90%">
+<img align="center" src="https://github.com/Sumanth-Talluri/CCNA-Network-Topologies/blob/master/05.%20Router%20Security%20and%20Telnet/screenshots/routersec.PNG" width="90%">
 
 ### Commands
 
@@ -36,7 +36,7 @@ Router#
 
 ### Topology
 
-<img align="center" src="https://github.com/Sumanth-Talluri/CCNA-Network-Topologies/blob/master/5.%20Router%20Security%20and%20Telnet/screenshots/telnet.png" width="70%">
+<img align="center" src="https://github.com/Sumanth-Talluri/CCNA-Network-Topologies/blob/master/05.%20Router%20Security%20and%20Telnet/screenshots/telnet.png" width="70%">
 
 ### Commands
 
@@ -55,5 +55,5 @@ Router(config)#
 
 &nbsp;
 
-<img align="center" src="https://github.com/Sumanth-Talluri/CCNA-Network-Topologies/blob/master/5.%20Router%20Security%20and%20Telnet/screenshots/telnetcmd.png" width="50%">
+<img align="center" src="https://github.com/Sumanth-Talluri/CCNA-Network-Topologies/blob/master/05.%20Router%20Security%20and%20Telnet/screenshots/telnetcmd.png" width="50%">
 
