@@ -60,13 +60,9 @@ D 192.168.7.0/24 [90/33280] via 192.168.2.2, 00:00:26, FastEthernet0/0
 Router#
 ```
 
-&nbsp;
-
 Pinging continuously from 192.168.1.2 to 192.168.7.2 
 
 <img align="center" src="https://github.com/Sumanth-Talluri/CCNA-Network-Topologies/blob/master/11.%20EIGRP/screenshots/eigrp-1.jpg" width="50%">
-
-&nbsp;
 
 In Router 0 :
 
@@ -76,13 +72,9 @@ Router(config-if)#shut
 Router(config-if)#
 ```
 
-&nbsp;
-
 After shutting down the interface 
 
 <img align="center" src="https://github.com/Sumanth-Talluri/CCNA-Network-Topologies/blob/master/11.%20EIGRP/screenshots/eigrp-2.jpg" width="50%">
-
-&nbsp;
 
 &nbsp;
 
