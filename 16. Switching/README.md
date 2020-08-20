@@ -53,8 +53,6 @@ Switch(config-if)#switchport mode trunk
 Switch(config-if)#
 ```
 
-&nbsp;
-
 In Switch 1 :
 
 ```console
