@@ -4,7 +4,7 @@
 
 ### Topology
 
-<img align="center" src="https://github.com/Sumanth-Talluri/CCNA-Network-Topologies/blob/master/2.%20Static%20Routing/screenshots/staticrouting.png" width="90%">
+<img align="center" src="https://github.com/Sumanth-Talluri/CCNA-Network-Topologies/blob/master/02.%20Static%20Routing/screenshots/staticrouting.png" width="90%">
 
 ### Commands
 
@@ -28,7 +28,7 @@ Router(config)#ip route 192.168.2.0 255.255.255.0 192.168.5.1
 
 ### Topology
 
-<img align="center" src="https://github.com/Sumanth-Talluri/CCNA-Network-Topologies/blob/master/2.%20Static%20Routing/screenshots/3routers.png" width="90%">
+<img align="center" src="https://github.com/Sumanth-Talluri/CCNA-Network-Topologies/blob/master/02.%20Static%20Routing/screenshots/3routers.png" width="90%">
 
 ### Commands
 
