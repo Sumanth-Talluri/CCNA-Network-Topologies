@@ -6,6 +6,8 @@ These are the Network Topologies I configured while preparing for **CCNA R&S 200
 
 For each concept given in the table of contents below you can find the various topologies and it's commands in the readme.md file.
 
+You can open the .pkt files using Cisco Packet Tracer.
+
 ### Table of Contents
 01. &nbsp;&nbsp; [Router Configuration](https://github.com/Sumanth-Talluri/CCNA-Network-Topologies/tree/master/01.%20Router%20Configuration)
 02. &nbsp;&nbsp; [Static Routing](https://github.com/Sumanth-Talluri/CCNA-Network-Topologies/tree/master/02.%20Static%20Routing)
