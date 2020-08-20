@@ -7,7 +7,7 @@ These are the Network Topologies I configured while preparing for **CCNA R&S 200
 For each concept given in the table of contents below you can find the various topologies and it's commands in the readme.md file.
 
 ### Table of Contents
-01. &nbsp;&nbsp; [Router Configuration](https://github.com/Sumanth-Talluri/CCNA-Network-Topologies/tree/master/1.%20Router%20Configuration)
+01. &nbsp;&nbsp; [Router Configuration](https://github.com/Sumanth-Talluri/CCNA-Network-Topologies/tree/master/01.%20Router%20Configuration)
 02. &nbsp;&nbsp; [Static Routing](https://github.com/Sumanth-Talluri/CCNA-Network-Topologies/tree/master/02.%20Static%20Routing)
 03. &nbsp;&nbsp; [Static Routing to ISP](https://github.com/Sumanth-Talluri/CCNA-Network-Topologies/tree/master/03.%20Static%20Routing%20to%20ISP)
 04. &nbsp;&nbsp; [DNS and DHCP](https://github.com/Sumanth-Talluri/CCNA-Network-Topologies/tree/master/04.%20DNS%20and%20DHCP)
