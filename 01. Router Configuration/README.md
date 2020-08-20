@@ -2,7 +2,7 @@
 
 ## Topology
 
-<img align="center" src="https://github.com/Sumanth-Talluri/CCNA-Network-Topologies/blob/master/1.%20Router%20Configuration/screenshots/routerconfig.png" width="60%">
+<img align="center" src="https://github.com/Sumanth-Talluri/CCNA-Network-Topologies/blob/master/01.%20Router%20Configuration/screenshots/routerconfig.png" width="60%">
 
 ## Commands
 
