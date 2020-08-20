@@ -71,13 +71,9 @@ O 192.168.7.0/24 [110/3] via 192.168.2.2, 00:00:25, FastEthernet0/0
 Router#
 ```
 
-&nbsp;
-
 Pinging continuously from 192.168.1.2 to 192.168.7.2 
 
 <img align="center" src="https://github.com/Sumanth-Talluri/CCNA-Network-Topologies/blob/master/10.%20Convergence/screenshots/ospf1.png" width="50%">
-
-&nbsp;
 
 In Router 0 :
 
@@ -88,8 +84,6 @@ Router(config)#int fa0/0
 Router(config-if)#shut
 Router(config-if)#
 ```
-
-&nbsp;
 
 After shutting down the interface 
 
