@@ -2,7 +2,7 @@
 
 ## Topology
 
-<img align="center" src="https://github.com/Sumanth-Talluri/CCNA-Network-Topologies/blob/master/6.%20Loopback%20Interface/screenshots/loopback.png" width="80%">
+<img align="center" src="https://github.com/Sumanth-Talluri/CCNA-Network-Topologies/blob/master/06.%20Loopback%20Interface/screenshots/loopback.png" width="80%">
 
 ## Commands
 
