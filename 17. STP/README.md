@@ -6,8 +6,6 @@
 
 ## Commands
 
-&nbsp;
-
 In Switch 0 :
 
 ```console
