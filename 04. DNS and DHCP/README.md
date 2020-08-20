@@ -4,7 +4,7 @@
 
 ### Topology
 
-<img align="center" src="https://github.com/Sumanth-Talluri/CCNA-Network-Topologies/blob/master/4.%20DNS%20and%20DHCP/screenshots/DNS%20Server.PNG" width="90%">
+<img align="center" src="https://github.com/Sumanth-Talluri/CCNA-Network-Topologies/blob/master/04.%20DNS%20and%20DHCP/screenshots/DNS%20Server.PNG" width="90%">
 
 &nbsp;
 
@@ -12,7 +12,7 @@
 
 ### Topology
 
-<img align="center" src="https://github.com/Sumanth-Talluri/CCNA-Network-Topologies/blob/master/4.%20DNS%20and%20DHCP/screenshots/dhcp.jpg" width="90%">
+<img align="center" src="https://github.com/Sumanth-Talluri/CCNA-Network-Topologies/blob/master/04.%20DNS%20and%20DHCP/screenshots/dhcp.jpg" width="90%">
 
 ### Commands
 
