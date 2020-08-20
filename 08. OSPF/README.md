@@ -4,7 +4,7 @@
 
 ### Topology
 
-<img align="center" src="https://github.com/Sumanth-Talluri/CCNA-Network-Topologies/blob/master/8.%20OSPF/screenshots/simpleOSPF.png" width="60%">
+<img align="center" src="https://github.com/Sumanth-Talluri/CCNA-Network-Topologies/blob/master/08.%20OSPF/screenshots/simpleOSPF.png" width="60%">
 
 ### Commands
 
@@ -36,7 +36,7 @@ Router(config-router)#
 
 ### Topology
 
-<img align="center" src="https://github.com/Sumanth-Talluri/CCNA-Network-Topologies/blob/master/8.%20OSPF/screenshots/4router.png" width="50%">
+<img align="center" src="https://github.com/Sumanth-Talluri/CCNA-Network-Topologies/blob/master/08.%20OSPF/screenshots/4router.png" width="50%">
 
 ### Commands
 
@@ -75,7 +75,7 @@ Router(config-router)#network 192.168.0.0 0.0.255.255 area 0
 
 ### Topology
 
-<img align="center" src="https://github.com/Sumanth-Talluri/CCNA-Network-Topologies/blob/master/8.%20OSPF/screenshots/image--067.png" width="90%">
+<img align="center" src="https://github.com/Sumanth-Talluri/CCNA-Network-Topologies/blob/master/08.%20OSPF/screenshots/image--067.png" width="90%">
 
 ### Commands
 
