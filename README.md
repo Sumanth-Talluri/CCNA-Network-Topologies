@@ -4,6 +4,10 @@
 
 These are the Network Topologies I configured while preparing for **CCNA R&S 200-125** exam.
 
+:star: **View My Certificate [here](https://www.youracclaim.com/badges/a8572ef5-da29-460d-bfb8-998c99191aee/public_url)**
+
+&nbsp;
+
 For each concept given in the table of contents below you can find the various topologies and it's commands in the readme.md file.
 
 You can open the .pkt files using Cisco Packet Tracer.
@@ -28,11 +32,6 @@ You can open the .pkt files using Cisco Packet Tracer.
 17. &nbsp;&nbsp; [STP](https://github.com/Sumanth-Talluri/CCNA-Network-Topologies/tree/master/17.%20STP)
 
 
-&nbsp;
-
-:star: **View My Certificate [here](https://www.youracclaim.com/earner/earned/share/a8572ef5-da29-460d-bfb8-998c99191aee)**
-
-&nbsp;
 
 ### Contribute
 
